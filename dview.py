@@ -3,6 +3,14 @@
 #SCRIPT KIDDIES NOT ALLOWED
 #IF YOU COPY THIS SCRIPT PLEASE GIVE THE CREDIT TO @D3ADVAU
 #@D3ADVAU
+import os,sys
+try:
+   import requests
+   from requests.structures import CaseInsensitiv>
+except:
+      os.system("pip install requests")
+import requests
+from requests.structures import CaseInsensitiveDi>
 import requests,os,sys,random
 os.system("clear")
 logo = """
