@@ -6,11 +6,11 @@
 import os,sys
 try:
    import requests
-   from requests.structures import CaseInsensitiv>
+   from requests.structures import CaseInsensitiveDict
 except:
       os.system("pip install requests")
 import requests
-from requests.structures import CaseInsensitiveDi>
+from requests.structures import CaseInsensitiveDict
 import requests,os,sys,random
 os.system("clear")
 logo = """
